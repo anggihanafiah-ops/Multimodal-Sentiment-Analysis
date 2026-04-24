@@ -870,6 +870,64 @@ predict_multimodal(model_llava, processor_llava, df5.head(50))
 predict_multimodal(model_qwen, processor_qwen, df5.head(50))
 
 
+## Eps6
+
+df6 = Read_data(LABEL_PATH + "eps6_transcripts.csv")
+
+
+### text only
+#### Qwen
+predict_text_dataset(model_qwen, processor_qwen, df6.head(50))
+
+#### Llava
+predict_text_dataset(model_llava, processor_llava, df6.head(50))
+
+### Video Only
+#### Qwen
+predict_video(model_qwen, processor_qwen, df6.head(50))
+
+#### Llava
+predict_video(model_llava, processor_llava, df6.head(50))
+
+#### Qwen
+predict_video(model_qwen, processor_qwen, df6.head(50))
+
+### Multimodal
+#### Llava
+predict_multimodal(model_llava, processor_llava, df6.head(50))
+
+#### Qwen
+predict_multimodal(model_qwen, processor_qwen, df6.head(50))
+
+
+## Eps7
+
+df7 = Read_data(LABEL_PATH + "eps6_transcripts.csv")
+
+
+### text only
+#### Qwen
+predict_text_dataset(model_qwen, processor_qwen, df7.head(50))
+
+#### Llava
+predict_text_dataset(model_llava, processor_llava, df7.head(50))
+
+### Video Only
+#### Qwen
+predict_video(model_qwen, processor_qwen, df7.head(50))
+
+#### Llava
+predict_video(model_llava, processor_llava, df7.head(50))
+
+#### Qwen
+predict_video(model_qwen, processor_qwen, df7.head(50))
+
+### Multimodal
+#### Llava
+predict_multimodal(model_llava, processor_llava, df7.head(50))
+
+#### Qwen
+predict_multimodal(model_qwen, processor_qwen, df7.head(50))
 
 
 
