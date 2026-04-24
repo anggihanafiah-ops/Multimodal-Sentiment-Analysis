@@ -10,7 +10,8 @@ This paper is currently under review.
 ## What is inside this repo?
 
 - Jupyter notebooks for Multimodal Sentiment Analysis baseline analysis  
-- Supporting materials to enable reproducibility and further extension of the analysis  
+- Supporting materials to enable reproducibility and further extension of the analysis
+- Text transcriptions both models  
 
 ---
 
