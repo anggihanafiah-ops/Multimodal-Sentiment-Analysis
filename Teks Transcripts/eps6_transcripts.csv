@@ -1,0 +1,229 @@
+video_id,transcript,label,emotion,path
+1_eps6,wah.,positive,joy,eps6/1.mp4
+2_eps6,Aku masak semua ini sendiri loh.,positive,joy,eps6/2.mp4
+3_eps6,"Ya elah, Bi.",negative,joy,eps6/3.mp4
+4_eps6,"Apapun masakannya, kalau kamu yang masak, aku pasti suka.",positive,joy,eps6/4.mp4
+5_eps6,"Kan kamu tau aku, aku tuh pemakan segala.",positive,joy,eps6/5.mp4
+6_eps6,inikan pedes semua.,negative,sadness,eps6/6.mp4
+7_eps6,Enggak loh.,positive,joy,eps6/7.mp4
+8_eps6,Aku kan udah kenal kamu dari lama.,positive,joy,eps6/8.mp4
+9_eps6,Aku tahu lah kamu paling gak suka sama pedes.,positive,joy,eps6/9.mp4
+10_eps6,Emang sih bahan dasarnya dari cabe.,positive,joy,eps6/10.mp4
+11_eps6,Tapi aku udah pilihin kok cabai yang gak pedas buat kamu.,positive,joy,eps6/11.mp4
+12_eps6,Emang ada ya cabe yang ga pedes?,negative,sadness,eps6/12.mp4
+13_eps6,"Ada ini, ini cabe ga pedes?",positive,joy,eps6/13.mp4
+14_eps6,Nih satu lagi.,positive,joy,eps6/14.mp4
+15_eps6,Adi bangun!,negative,anger,eps6/15.mp4
+16_eps6,Hmmm.,negative,anger,eps6/16.mp4
+17_eps6,Aduh kamu romantis banget sih bangunin aku.,positive,joy,eps6/17.mp4
+18_eps6,Pasti kamu siapin sarapan ya buat aku ya?,positive,joy,eps6/18.mp4
+19_eps6,Sarapan,negative,anger,eps6/19.mp4
+20_eps6,"Tuh, lihat kaca aku pecah.",negative,anger,eps6/20.mp4
+21_eps6,"Aduh, kamu ngerusak suasana banget sih.",negative,anger,eps6/21.mp4
+22_eps6,Pagi-pagi udah ribut aja.,negative,anger,eps6/22.mp4
+23_eps6,"Kok, aku sih?",negative,anger,eps6/23.mp4
+24_eps6,Udah dua hari yang lalu aku bilang kacanya pecah.,negative,anger,eps6/24.mp4
+25_eps6,"Aku bilang, Adi, kaca aku pecah.",positive,anger,eps6/25.mp4
+26_eps6,"Kalo gak bisa makeup, gak bisa ngantor.",negative,anger,eps6/26.mp4
+27_eps6,Kau gak bisa ngantor siapa yang bayar tagihan?,negative,anger,eps6/27.mp4
+28_eps6,Bisa dipake kok.,positive,anger,eps6/28.mp4
+29_eps6,Tosnya cuma pakai orange juice nih?,positive,positive,eps6/29.mp4
+30_eps6,Nggak ada wine ni?,positive,joy,eps6/30.mp4
+31_eps6,Iyalah rame,positive,joy,eps6/31.mp4
+32_eps6,Sebelum mereka disini kan di rumah kosong,positive,joy,eps6/32.mp4
+33_eps6,"Tapi beneran loh Mas Adi, Mba Angel, kami tuh seneng banget.",positive,joy,eps6/33.mp4
+34_eps6,"Thanks ya, guys. Tos untuk kita semua.",positive,joy,eps6/34.mp4
+35_eps6,"Oh iya, Bastian Bintang.",positive,joy,eps6/35.mp4
+36_eps6,Terima kasih kalian udah say thank you ke kami yang kami juga nggak tahu untuk apa,positive,joy,eps6/36.mp4
+37_eps6,dan Angel juga tadi udah tos juga,positive,joy,eps6/37.mp4
+38_eps6,Lunas ya,positive,joy,eps6/38.mp4
+39_eps6,Bahwa gak ada hutang diantara kita.,positive,joy,eps6/39.mp4
+40_eps6,hehe.,positive,joy,eps6/40.mp4
+41_eps6,Berarti boleh makan dong sekarang,positive,joy,eps6/41.mp4
+42_eps6,"Oh, Mas Adi lapar ya?",positive,joy,eps6/42.mp4
+43_eps6,"Maaf, maaf, maaf.",positive,joy,eps6/43.mp4
+44_eps6,Bon appetit.,positive,joy,eps6/44.mp4
+45_eps6,Katanya kalian baru pulang liburan ya.,positive,joy,eps6/45.mp4
+46_eps6,"Iya, kita kemarin dari Gunung Salak, Mbak Angel.",positive,joy,eps6/46.mp4
+47_eps6,"ohh, gunung salak.",positive,joy,eps6/47.mp4
+48_eps6,"Uhh, ngapain?",positive,joy,eps6/48.mp4
+49_eps6,Kita berdua suka banget naik gunung makanya ya.,positive,joy,eps6/49.mp4
+50_eps6,Kalau kalian suka naik gunung enggak?,positive,joy,eps6/50.mp4
+51_eps6,Wah kalau saya naik gunung sama dia sih bisa mati kelaparan saya,negative,joy,eps6/51.mp4
+52_eps6,Gara-gara terlalu hemat,negative,joy,eps6/52.mp4
+53_eps6,Malah Bastian waktu itu ngelamar saya pas lagi naik gunung loh.,positive,joy,eps6/53.mp4
+54_eps6,Ya namanya juga pecinta alam mbak,positive,joy,eps6/54.mp4
+55_eps6,"Pas kita lagi di ketinggian untuk melihat matahari terbit, tiba-tiba Bastian berlutut dan mengeluarkan sebuah cincin.",positive,joy,eps6/55.mp4
+56_eps6,Dan cincin itu menjadi cincin kawin saya.,positive,joy,eps6/56.mp4
+57_eps6,Itu berlian lho mbak.,positive,joy,eps6/57.mp4
+58_eps6,Saya setahun nabung buat beli itu,positive,joy,eps6/58.mp4
+59_eps6,Oh.,positive,joy,eps6/59.mp4
+60_eps6,"Aduh, pusing.",negative,anger,eps6/60.mp4
+61_eps6,Toiletnya sebelah situ kan?,positive,anger,eps6/61.mp4
+62_eps6,"Perut saya mules, pasti gara-gara tos pakai orange juice.",negative,anger,eps6/62.mp4
+63_eps6,"Terus si Bastian gak punya duit, gak punya modal.",negative,anger,eps6/63.mp4
+64_eps6,Oh yeah?,negative,anger,eps6/64.mp4
+65_eps6,Terus kamu pikir kamu ngelamarnya pake modal?,negative,anger,eps6/65.mp4
+66_eps6,Ya iya dong.,positive,anger,eps6/66.mp4
+67_eps6,"Eh, waktu itu aku ngelamar kamu... Di mana ya?",positive,neutral,eps6/67.mp4
+68_eps6,Di warteg,negative,anger,eps6/68.mp4
+69_eps6,Panas sekali.,negative,anger,eps6/69.mp4
+70_eps6,"Karena aku belum pernah makan di Warteg. Kamu bilang Angel, kamu mau gak aku traktir ke Warteg?",positive,anger,eps6/70.mp4
+71_eps6,Terus aku pikir ya boleh lah berhubung kamu ganteng.,positive,anger,eps6/71.mp4
+72_eps6,"Terus aku makan terlalu dadar, tiba-tiba ada cincinnya di dalam.",positive,anger,eps6/72.mp4
+73_eps6,Romantis kan?,positive,joy,eps6/73.mp4
+74_eps6,"Ya, romantis.",positive,anger,eps6/74.mp4
+75_eps6,Kalau aja di cincin itu gak ada tulisan Eko dan Mimi.,negative,anger,eps6/75.mp4
+76_eps6,"Tuh kan, diungkit-ungkit lagi deh.",negative,sadness,eps6/76.mp4
+77_eps6,Males deh aku,negative,sadness,eps6/77.mp4
+78_eps6,Ya kamu tahu kan cincin itu dari pakde Eko.,positive,sadness,eps6/78.mp4
+79_eps6,"Ya waktu itu kan aku gak punya uang Angel, aku lagi kere, kamu kan tau itu.",negative,sadness,eps6/79.mp4
+80_eps6,Ya aku tahu kamu kere. Sampai sekarang juga kere.,negative,anger,eps6/80.mp4
+81_eps6,"Hehe, ya juga ya.",positive,joy,eps6/81.mp4
+82_eps6,Semua orang ketawain kita.,negative,neutral,eps6/82.mp4
+83_eps6,Tapi kamu inget kan kamu bilang apa?,positive,neutral,eps6/83.mp4
+84_eps6,Ingat-ingat aku ingat aku bilang...,positive,joy,eps6/84.mp4
+85_eps6,Angel nanti kalau suatu saat aku punya uang aku akan beliin kamu cincin berlian yang bagus buat gantiin cincinnya Pakde Eko ya kan?,positive,joy,eps6/85.mp4
+86_eps6,Siap-siap!,positive,joy,eps6/86.mp4
+87_eps6,"Satu, dua...",positive,joy,eps6/87.mp4
+88_eps6,"Hi, Mas Adi.",positive,joy,eps6/88.mp4
+89_eps6,ke kantor,positive,anger,eps6/89.mp4
+90_eps6,"Loh? Kan ini hari Minggu, Mas.",positive,anger,eps6/90.mp4
+91_eps6,"Nah itu dia si Angel, hari Minggu bukan yang ngurus suami malah ke kantor.",negative,anger,eps6/91.mp4
+92_eps6,Boleh?,positive,joy,eps6/92.mp4
+93_eps6,Boleh boleh mas.,positive,joy,eps6/93.mp4
+94_eps6,Ada apa mas?,positive,joy,eps6/94.mp4
+95_eps6,Mas Adi mau saya jadi wasitnya,positive,joy,eps6/95.mp4
+96_eps6,Kosong kosong.,positive,joy,eps6/96.mp4
+97_eps6,"Boleh gak kamu ngambilin saya minum? Tapi ngambilinnya jauh, di Merauke sana.",positive,joy,eps6/97.mp4
+98_eps6,Mau ngobrol berdua?,positive,neutral,eps6/98.mp4
+99_eps6,"Sorry, Bas, terpaksa. Pengen ngobrol berdua sama kamu soalnya.",positive,neutral,eps6/99.mp4
+100_eps6,"Gak apa-apa mas, saya yang makasih.",positive,neutral,eps6/100.mp4
+101_eps6,"Eh, Mas Adi kenapa lagi nih?",positive,neutral,eps6/101.mp4
+102_eps6,Berantem lagi ya? Sama Angel ya?,positive,neutral,eps6/102.mp4
+103_eps6,Iya berantem gara-gara kamu.,negative,anger,eps6/103.mp4
+104_eps6,"Hah? Kok gara-gara saya, Mas?",negative,neutral,eps6/104.mp4
+105_eps6,"Ya Gara-gara kamu, gara-gara kamu itu cerita soal kamu beliin cincin buat istri kamu.",negative,anger,eps6/105.mp4
+106_eps6,Terus istri saya juga minta cincin juga sama saya.,negative,anger,eps6/106.mp4
+107_eps6,Oh ya tinggal beliin aja kali mas,positive,joy,eps6/107.mp4
+108_eps6,tinggal beliin aja tinggal beliin aja,negative,anger,eps6/108.mp4
+109_eps6,Saya tuh gak ngerti dimana sih pentingnya cincin.,negative,anger,eps6/109.mp4
+110_eps6,"Mahal, dimakan gak bisa. Mendingan beli terong di pasar.",negative,anger,eps6/110.mp4
+111_eps6,"Mas Adi, yang namanya wanita itu terkadang butuh sesuatu yang romantis.",positive,neutral,eps6/111.mp4
+112_eps6,"Enggak, enggak tahu.",negative,anger,eps6/112.mp4
+113_eps6,antara laki-laki sama laki-laki ya.,positive,neutral,eps6/113.mp4
+114_eps6,Sebenernya berapa sih kamu beli cincin itu?,positive,neutral,eps6/114.mp4
+115_eps6,Gila mahal banget.,negative,anger,eps6/115.mp4
+116_eps6,Kamu kan tau gaji guru menggambar sekolah menengah atas nggak mungkin bisa beli barang kayak gitu ya kan?,negative,sadness,eps6/116.mp4
+117_eps6,"Yaelah sama, kali mas Adi. Saya juga perlu setahun nabung buat beli cincin itu buat si Bintang.",positive,neutral,eps6/117.mp4
+118_eps6,"Hmmm, gini deh.",positive,neutral,eps6/118.mp4
+119_eps6,"Kamu kerja di toko cincin ya, Bas?",positive,neutral,eps6/119.mp4
+120_eps6,Banyak banget punya katalog.,positive,neutral,eps6/120.mp4
+121_eps6,Nah ini baru pas.,positive,joy,eps6/121.mp4
+122_eps6,Ini baru pas buat kantong guru gambar sekolah menengah.,positive,joy,eps6/122.mp4
+123_eps6,"Ya iyalah, KW5 Mas Adi.",negative,joy,eps6/123.mp4
+124_eps6,"Karena kalau Mbak Angel tahu, pasti bakal murka.",negative,neutral,eps6/124.mp4
+125_eps6,"Oh enggak enggak enggak, gak apa-apa dia mana ngerti.",positive,joy,eps6/125.mp4
+126_eps6,Orang dia aja barang-barangnya biasa beli di Manga 2.,positive,joy,eps6/126.mp4
+127_eps6,That's right.,positive,joy,eps6/127.mp4
+128_eps6,Mantap.,positive,joy,eps6/128.mp4
+129_eps6,Angel.,positive,joy,eps6/129.mp4
+130_eps6,Itu adalah bukti kalau aku bukan suami kelas warteg lagi.,positive,joy,eps6/130.mp4
+131_eps6,Kejutan untuk Nyonya Angel.,positive,joy,eps6/131.mp4
+132_eps6,Ya iya dong.,positive,joy,eps6/132.mp4
+133_eps6,Itu mahal lagi.,positive,joy,eps6/133.mp4
+134_eps6,Janji udah aku tepatin dan sekarang kita lunas.,positive,joy,eps6/134.mp4
+135_eps6,Jadi lunas nih? Kamu pikir kita lunas?,positive,neutral,eps6/135.mp4
+136_eps6,Yeah.,positive,joy,eps6/136.mp4
+137_eps6,Buka dong. Lihat di dalam cincinnya ada ukirannya.,positive,joy,eps6/137.mp4
+138_eps6,Baca yang keras,positive,joy,eps6/138.mp4
+139_eps6,Mantap kan?,positive,joy,eps6/139.mp4
+140_eps6,Mantap.,negative,anger,eps6/140.mp4
+141_eps6,Kamu kenapa sih?,negative,anger,eps6/141.mp4
+142_eps6,Aku kenapa?,negative,anger,eps6/142.mp4
+143_eps6,Iya kamu kenapa?,negative,anger,eps6/143.mp4
+144_eps6,Aku kenapa?,negative,anger,eps6/144.mp4
+145_eps6,"Ya itu pertanyaan kok jangan dulu ulang dong, jawab.",negative,anger,eps6/145.mp4
+146_eps6,"Bukan hanya karena kamu melanggar janji, tapi karena kamu merasa kamu udah nempatin janji.",negative,anger,eps6/146.mp4
+147_eps6,Kamu ngapain? Beliin cincin palsu.,negative,anger,eps6/147.mp4
+148_eps6,Itu cincin katalog kw5,negative,anger,eps6/148.mp4
+149_eps6,Dan kamu ngasihnya gimana?,negative,anger,eps6/149.mp4
+150_eps6,Kamu ngelempar ke aku?,negative,anger,eps6/150.mp4
+151_eps6,Kok kamu tau sih ini kw lima?,positive,sadness,eps6/151.mp4
+152_eps6,Keliatan ya?,positive,sadness,eps6/152.mp4
+153_eps6,Ini bukan masalah cincin aja.,negative,anger,eps6/153.mp4
+154_eps6,"Kamu gak ngerti, dan kamu gak coba untuk ngerti.",negative,anger,eps6/154.mp4
+155_eps6,Ya aku kan gak tau Angel maunya kamu gimana ya kamu ngomong dong sama aku maunya kamu gimana kamu ngomong,positive,sadness,eps6/155.mp4
+156_eps6,"Jadi gini, aku tuh kan mau candlelight dinner di rumah.",positive,neutral,eps6/156.mp4
+157_eps6,"Nah aku tuh mau kasih kalung buat bintang, tapi aku bingung deh milihnya.",positive,neutral,eps6/157.mp4
+158_eps6,"Kira-kira menurut Mba Angel, bagusan yang kiri apa yang kanan ya?",positive,neutral,eps6/158.mp4
+159_eps6,"Terima kasih, Mbak Angel.",positive,joy,eps6/159.mp4
+160_eps6,"Masuk saja, Mas. Pintunya ga dikunci kok .",positive,neutral,eps6/160.mp4
+161_eps6,Ya saya tahu.,positive,anger,eps6/161.mp4
+162_eps6,Menurut saya kalian berdua udah keterlaluan.,negative,anger,eps6/162.mp4
+163_eps6,"Waduh, ada apaan ya mas?",positive,neutral,eps6/163.mp4
+164_eps6,"Saya tahu kalian berdua saling mencintai, tapi please tolong stop!",negative,anger,eps6/164.mp4
+165_eps6,Karena apa?,negative,anger,eps6/165.mp4
+166_eps6,Karena bisa aja tetangga kalian yang saling mencintai Bisa tidak saling cinta lagi gara-gara pertunjukan cinta kalian,negative,anger,eps6/166.mp4
+167_eps6,Kita cuma mau makan kok mas,positive,neutral,eps6/167.mp4
+168_eps6,Di rumah sendiri.,positive,neutral,eps6/168.mp4
+169_eps6,Iya tapi kan gak perlu nunjukin kalau kalian harus mau makan.,negative,anger,eps6/169.mp4
+170_eps6,"Tetangga kalian harus liat pake lilin, orange juice, terus makan...",negative,anger,eps6/170.mp4
+171_eps6,Ini kan gudeg,positive,joy,eps6/171.mp4
+172_eps6,"Iya mas, ini gudeg wijilan.",positive,neutral,eps6/172.mp4
+173_eps6,Ya ampun ini kan makanan kesukaan aku.,positive,joy,eps6/173.mp4
+174_eps6,"Tau gak, waktu kuliah di Jogja itu hampir setiap hari aku makan gudeg, tau gak?",positive,joy,eps6/174.mp4
+175_eps6,Mas Adi mau makan.,positive,joy,eps6/175.mp4
+176_eps6,Boleh?,positive,joy,eps6/176.mp4
+177_eps6,Betul sekali Bas.,positive,joy,eps6/177.mp4
+178_eps6,Gak tau kenapa dia gak suka banget begitu saya kasih cincin ke dia.,negative,neutral,eps6/178.mp4
+179_eps6,"Nah kan, saya bilang juga apa mas?",positive,neutral,eps6/179.mp4
+180_eps6,"Kalau boleh tahu, caranya Mas Adi ngasih cincinnya ke Mbak Angel itu seperti apa, Mas?",positive,neutral,eps6/180.mp4
+181_eps6,Ya seperti pada umumnya orang normal aja.,positive,neutral,eps6/181.mp4
+182_eps6,Saya lempar.,negative,joy,eps6/182.mp4
+183_eps6,Loh emang kenapa?,positive,neutral,eps6/183.mp4
+184_eps6,Ya sekarang saya harus gimana?,positive,neutral,eps6/184.mp4
+185_eps6,Saya kan sudah 10 tahun menikah dengan Angel.,positive,neutral,eps6/185.mp4
+186_eps6,Gak seperti kalian yang baru seminggu gini.,positive,anger,eps6/186.mp4
+187_eps6,13 hari mas,positive,neutral,eps6/187.mp4
+188_eps6,Ya sama aja lah.,negative,anger,eps6/188.mp4
+189_eps6,Pokoknya intinya apa yang saya kasih ke Angel itu selalu salah.,negative,anger,eps6/189.mp4
+190_eps6,"Saya boleh ngomong sesuatu nggak, Mas Adi?",positive,neutral,eps6/190.mp4
+191_eps6,Berhubung kamu yang bawa gudeg monggo.,positive,joy,eps6/191.mp4
+192_eps6,"Ya menurut saya mau 10 tahun kek, mau baru seminggu kek, poinnya adalah cewek ngelihat cowok itu dari usahanya mas.",positive,neutral,eps6/192.mp4
+193_eps6,Sekarang kamu kasih tau sama saya.,positive,anger,eps6/193.mp4
+194_eps6,Gimana caranya saya memperbaiki hubungan saya sama Angel? Yang sudah menikah sejak kalian masih SD.,positive,neutral,eps6/194.mp4
+195_eps6,Iya ngasih cincinnya lebih romantis dikit lah mas,positive,neutral,eps6/195.mp4
+196_eps6,"Iya, contohnya gimana?",positive,neutral,eps6/196.mp4
+197_eps6,Saya kasih ide ya.,positive,neutral,eps6/197.mp4
+198_eps6,Sebenernya sih ide ini dulu mau saya pake buat ngelamar bintang.,positive,neutral,eps6/198.mp4
+199_eps6,"Nanti pas di kamar, Mas Adi tuh bikin penunjuk arah dari bunga mawar.",positive,joy,eps6/199.mp4
+200_eps6,"Nanti kan Mbak Angel bakal ngikutin tuh. Begitu dia sampai, disitulah Mas Adi lagi berlutut mempersembahkan sebuah cincin.",positive,joy,eps6/200.mp4
+201_eps6,Kenapa kamu gak ngelamar aku pakai cara itu?,negative,sadness,eps6/201.mp4
+202_eps6,"Loh, ya aku pikir kan ngelamar kamu di atas gunung gede itu udah paling romantis sayang.",positive,joy,eps6/202.mp4
+203_eps6,Makanya ide tadi itu gak aku pake,positive,joy,eps6/203.mp4
+204_eps6,Seneng sih,positive,joy,eps6/204.mp4
+205_eps6,Jadi selama ini kamu gak senang aku lamar di atas gunung?,negative,sadness,eps6/205.mp4
+206_eps6,"Ya, senang.",positive,joy,eps6/206.mp4
+207_eps6,Tapi aku bakal lebih seneng kalau kamu pakai cara yang tadi.,positive,sadness,eps6/207.mp4
+208_eps6,"Kan di gunung banyak nyamuk, Bas.",negative,sadness,eps6/208.mp4
+209_eps6,Angel.,positive,joy,eps6/209.mp4
+210_eps6,Aku cuma ngelamar kamu di warteg.,positive,joy,eps6/210.mp4
+211_eps6,Itulah aku.,positive,joy,eps6/211.mp4
+212_eps6,Cowok warteg.,positive,joy,eps6/212.mp4
+213_eps6,"Terima kasih Angel selama ini, udah 10 tahun kita menikah. Kamu udah terima aku apa adanya?",positive,joy,eps6/213.mp4
+214_eps6,Ini adalah wujud terima kasih aku.,positive,joy,eps6/214.mp4
+215_eps6,Aku harap kamu mau menerima ini,positive,joy,eps6/215.mp4
+216_eps6,Ini KW 1.,positive,joy,eps6/216.mp4
+217_eps6,"Aku gesek pake kredit kartu kamu, aku pinjam dulu ya",positive,joy,eps6/217.mp4
+218_eps6,Gak tau tapi kok rasanya ini semuanya palsu.,negative,sadness,eps6/218.mp4
+219_eps6,"Tuh Angel lah, harus gimana lagi sih?",positive,sadness,eps6/219.mp4
+220_eps6,"Enggak, bukan kamu.",positive,sadness,eps6/220.mp4
+221_eps6,Udah gak pantes nih kayak gini,negative,neutral,eps6/221.mp4
+222_eps6,Kan.,positive,joy,eps6/222.mp4
+223_eps6,Aku bilang juga apa udah gak pantas kan?,positive,joy,eps6/223.mp4
+224_eps6,Maunya begini.,positive,sadness,eps6/224.mp4
+225_eps6,Semuanya yang romantis-romantis kayak di negeri dongeng yang happily ever after tuh udah gak cocok buat pasangan yang 10 tahun.,positive,neutral,eps6/225.mp4
+226_eps6,Kacanya sudah diganti,positive,joy,eps6/226.mp4
+227_eps6,"Hmm, kok.",positive,joy,eps6/227.mp4
+228_eps6,Cuman 1 per 8 dari harga cincin.,positive,joy,eps6/228.mp4

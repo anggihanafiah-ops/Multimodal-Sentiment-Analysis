@@ -1,0 +1,260 @@
+video_id,transcript,label,emotion,path
+1_eps1,Kamu tunggu aja. Oke. Bentar ya gak boleh ngintip ya. Iya. Aku tunggu sampai tiga kamu baru boleh lihat. Satu. Tiga.,positive,neutral,Eps1/1.mp4
+2_eps1,Kenapa mataku harus pake ditutup segala sih?,positive,neutral,Eps1/2.mp4
+3_eps1,Kan aku udah sering kesini.,positive,neutral,Eps1/3.mp4
+4_eps1,Oh hehe.,positive,joy,Eps1/4.mp4
+5_eps1,Biar kayak di film-film sayang.,positive,joy,Eps1/5.mp4
+6_eps1,Oh gitu.,positive,joy,Eps1/6.mp4
+7_eps1,"Kalau gitu, yeay, Bastian aku senang banget sama rumah baru kita. Oh give me a hug.",positive,joy,Eps1/7.mp4
+8_eps1,Kamu ngapain sih.,negative,anger,Eps1/8.mp4
+9_eps1,Ah kamu paling bisa deh,positive,joy,Eps1/9.mp4
+10_eps1,Ngelukis mulu.,negative,anger,Eps1/10.mp4
+11_eps1,Bantu aku beres-beres rumah dong.,negative,anger,Eps1/11.mp4
+12_eps1,Beres-beres rumah bisa ntar kali.,negative,neutral,Eps1/12.mp4
+13_eps1,"Nih kamu liat nih, mood ngelukisku sekarang lagi bagus. Ya, jadi tolong jangan ganggu.",negative,neutral,Eps1/13.mp4
+14_eps1,Ini tuh kayaknya poop cicak tuh.,positive,neutral,Eps1/14.mp4
+15_eps1,"Enggak mau, enggak mau. Angel, angel. Ini enggak sopan.",negative,anger,Eps1/15.mp4
+16_eps1,Apa yang membuat kamu berpikir aku mau melihat pup cicak?,positive,neutral,Eps1/16.mp4
+17_eps1,Kamu kenapa sih gak bisa ramah dikit?,negative,anger,Eps1/17.mp4
+18_eps1,Aku capek kalau lagi arisan ibu-ibu diomongin terus kamunya.,negative,anger,Eps1/18.mp4
+19_eps1,"Kenapa sih suaminya cuek banget, gak pernah ngumpul sama tetangga-tetangga gitu?",negative,anger,Eps1/19.mp4
+20_eps1,Selamat pagi Mas Adi.,positive,neutral,Eps1/20.mp4
+21_eps1,"Kita tetangga yang di sini, ini rumahnya.",positive,neutral,Eps1/21.mp4
+22_eps1,"Aku ramah, aku tadi aku jawab, aku bilang hmm gitu.",positive,neutral,Eps1/22.mp4
+23_eps1,Eh kamu ah.,negative,anger,Eps1/23.mp4
+24_eps1,Saatnya mulai bergaul. Yuk!,positive,neutral,Eps1/24.mp4
+25_eps1,Ngapain sih.,negative,anger,Eps1/25.mp4
+26_eps1,Baru pindah yah?,positive,neutral,Eps1/26.mp4
+27_eps1,"Kalau saya sales di perusahaan sabun cuci gitu lah, baru juga sebulanan kerja.",positive,neutral,Eps1/27.mp4
+28_eps1,Kalau Mbak Angel sama Mas Adi kerja di mana ya?,positive,neutral,Eps1/28.mp4
+29_eps1,Hai.,positive,neutral,Eps1/29.mp4
+30_eps1,Hai.,positive,neutral,Eps1/30.mp4
+31_eps1,Hai.,positive,neutral,Eps1/31.mp4
+32_eps1,"Haha, tapi pas pasan.",positive,joy,Eps1/32.mp4
+33_eps1,"Iya mbak, baru juga kemarin kita pindah.",positive,neutral,Eps1/33.mp4
+34_eps1,Ya aku kan gak suka kamu nyuruh aku pergi-pergi sama dia kayak gitu.,negative,anger,Eps1/34.mp4
+35_eps1,Em saya Angel.,positive,neutral,Eps1/35.mp4
+36_eps1,Yeah.,positive,neutral,Eps1/36.mp4
+37_eps1,Pasti baik kayak malaikat.,positive,joy,Eps1/37.mp4
+38_eps1,Malaikat pencabut nyawa.,positive,neutral,Eps1/38.mp4
+39_eps1,ini suami saya.,positive,neutral,Eps1/39.mp4
+40_eps1,Adi Adi,positive,neutral,Eps1/40.mp4
+41_eps1,"Oh iya, hampir lupa. Nama saya Bastian, ini istri saya Bi.",positive,neutral,Eps1/41.mp4
+42_eps1,Bee? Bee?,positive,neutral,Eps1/42.mp4
+43_eps1,"Nama saya sih Bintang, Mas. Tapi sejak kita pacaran dari SMA, Bastian selalu manggil saya Bi.",positive,neutral,Eps1/43.mp4
+44_eps1,"Iya, Bee. Soalnya seri saya ini kan manis kayak madu.",positive,joy,Eps1/44.mp4
+45_eps1,"Kalau yang ini pahit, enaknya dipanggil apa ya?",positive,neutral,Eps1/45.mp4
+46_eps1,Kerja dimana?,positive,neutral,Eps1/46.mp4
+47_eps1,Nanti kalau dia mikirnya aku mau berteman sama dia gimana?,negative,anger,Eps1/47.mp4
+48_eps1,"Kalau saya di law firm, kalau suami saya guru gambar di SMA Matahari.",positive,neutral,Eps1/48.mp4
+49_eps1,"Oh, guru gambar. Wah, keren banget tuh, Mas. Keren, ya?",positive,neutral,Eps1/49.mp4
+50_eps1,"Ya, bisa hidup lah.",positive,neutral,Eps1/50.mp4
+51_eps1,"Eh, aku punya ide. Kenapa Bastian sama kamu gak berangkat bareng aja?",positive,neutral,Eps1/51.mp4
+52_eps1,"Oh gasuah lah, gausah gausah.",positive,neutral,Eps1/52.mp4
+53_eps1,"Enggak kok, gak repot kok. Saya malah seneng kan berangkatnya jadi ada temen.",positive,neutral,Eps1/53.mp4
+54_eps1,"Aku titip ya barang satu ini, ya? Permisi. Terima kasih. Yuk.",positive,neutral,Eps1/54.mp4
+55_eps1,"Mas Adi, silakan.",positive,neutral,Eps1/55.mp4
+56_eps1,Hi.,positive,neutral,Eps1/56.mp4
+57_eps1,Hai juga,positive,neutral,Eps1/57.mp4
+58_eps1,Gimana tadi? Udah akrab sama tetangga baru?,positive,neutral,Eps1/58.mp4
+59_eps1,Kamu ngapain sih nyuruh aku pergi sama Bastian?,negative,anger,Eps1/59.mp4
+60_eps1,"Supaya kamu gaul sama manusia juga, ga sama lukisan terus.",positive,neutral,Eps1/60.mp4
+61_eps1,Hm males.,negative,anger,Eps1/61.mp4
+62_eps1,Itu siapa tuh?,positive,neutral,Eps1/62.mp4
+63_eps1,"Iya sayang, meja pimpong.",positive,joy,Eps1/63.mp4
+64_eps1,Ini tadi aku bikin puding buah buat Mbak Angel dan Mas Adi. Mari dicoba.,positive,neutral,Eps1/64.mp4
+65_eps1,gimana kalau kita isi meja pingpong biar kelihatan penuh,positive,neutral,Eps1/65.mp4
+66_eps1,"Oh, hehe enggak mas.",positive,joy,Eps1/66.mp4
+67_eps1,Masukin kulkas dulu ya.,positive,neutral,Eps1/67.mp4
+68_eps1,"Wah, asik nih rumahnya. Kelihatan penuh gitu ya, sayangnya.",positive,neutral,Eps1/68.mp4
+69_eps1,"Nggak kayak rumah kita ya, Bas ya? Masih berasa kosong.",positive,neutral,Eps1/69.mp4
+70_eps1,"Kalau kita udah isi meja pingpong, pasti keliatan penuh. Nggak kosong lagi.",positive,neutral,Eps1/70.mp4
+71_eps1,Meja pingpong.,positive,neutral,Eps1/71.mp4
+72_eps1,"Iya, itulah yang kemarin aku cerita. Kalau kita beli sekarang, kita dapat diskon 30%.",positive,neutral,Eps1/72.mp4
+73_eps1,Ide brilliant kan?,positive,joy,Eps1/73.mp4
+74_eps1,Ide brilliant tuh mas.,positive,neutral,Eps1/74.mp4
+75_eps1,"Puding sudah dikulkas, mau lihat taman belakang?",positive,neutral,Eps1/75.mp4
+76_eps1,boleh,positive,neutral,Eps1/76.mp4
+77_eps1,Tadi istri kamu bilang...,positive,neutral,Eps1/77.mp4
+78_eps1,Kalian baru seminggu nikah ya?,positive,neutral,Eps1/78.mp4
+79_eps1,9 hari,positive,joy,Eps1/79.mp4
+80_eps1,Pantas.,positive,anger,Eps1/80.mp4
+81_eps1,Pantes kenapa mas.,positive,neutral,Eps1/81.mp4
+82_eps1,Pantes kamu gak nyadar kalau kamu gak bakal dapet meja pingpong.,positive,anger,Eps1/82.mp4
+83_eps1,Maksud Mas Adi?,positive,neutral,Eps1/83.mp4
+84_eps1,Kamu kepengen punya meja pingpong di ruang tamu kamu kan?,positive,neutral,Eps1/84.mp4
+85_eps1,Kamu gak bakal dapet.,positive,anger,Eps1/85.mp4
+86_eps1,"Ah, Mas Adi salah banget. Orang istri saya setuju kok.",positive,joy,Eps1/86.mp4
+87_eps1,Ide brilian tuh bas,positive,neutral,Eps1/87.mp4
+88_eps1,Hahahahaha Mas Adi ini so tau ah.,positive,joy,Eps1/88.mp4
+89_eps1,Mungkin saya kenal kalian baru sehari ya.,positive,neutral,Eps1/89.mp4
+90_eps1,"Sama seperti kerja di kantor. Harus ada yang jadi bos, dan harus ada yang jadi pesuruh.",positive,neutral,Eps1/90.mp4
+91_eps1,Selamat malam,positive,neutral,Eps1/91.mp4
+92_eps1,"Oke, di sini pas.",positive,neutral,Eps1/92.mp4
+93_eps1,Hari libur di rumah aja nih mas.,positive,neutral,Eps1/93.mp4
+94_eps1,"Kamu kayak kecoa ya, muncul terus, gak mati-mati.",negative,anger,Eps1/94.mp4
+95_eps1,"Gini mas, saya tuh jadi kepikiran kata-kata Mas Adi semalem soal meja pingpong itu loh.",positive,neutral,Eps1/95.mp4
+96_eps1,Bagaimana kalau saya bisa menebak kalimat yang akan keluar dari mulutnya bintang kata per kata?,positive,neutral,Eps1/96.mp4
+97_eps1,"Wih, ngeramal nih.",positive,joy,Eps1/97.mp4
+98_eps1,Ada tiga kalimat yang akan keluar dari mulutnya Bintan. Yang pertama...,positive,neutral,Eps1/98.mp4
+99_eps1,Hahahaha.,positive,joy,Eps1/99.mp4
+100_eps1,kok ketawa?,positive,neutral,Eps1/100.mp4
+101_eps1,Ya enggak lah,positive,anger,Eps1/101.mp4
+102_eps1,Ingat kata-kata Ki Joko Bodo,positive,neutral,Eps1/102.mp4
+103_eps1,"Udah lah, nggak usah dibahas. Bete aku.",negative,anger,Eps1/103.mp4
+104_eps1,Ga ada keliatan lain?,positive,neutral,Eps1/104.mp4
+105_eps1,"Kamu kok lesu banget sih, Bas?",positive,neutral,Eps1/105.mp4
+106_eps1,"Tuh ada tetangga, dok ngerti banget soal pernikahan.",negative,anger,Eps1/106.mp4
+107_eps1,Eh maksudnya?,positive,neutral,Eps1/107.mp4
+108_eps1,"Bi, menurut kamu meja pimpong yang bagus itu yang warna merah apa yang hijau ya?",positive,neutral,Eps1/108.mp4
+109_eps1,"Merah sih salah satu warna favorit aku. Selain biru, kuning, hijau, pink, dan putih.",positive,neutral,Eps1/109.mp4
+110_eps1,"Tapi kamu oke kan Bi, soal meja pingpong ini?",positive,neutral,Eps1/110.mp4
+111_eps1,Kamu ga masalahkan?,positive,neutral,Eps1/111.mp4
+112_eps1,Yay!,positive,joy,Eps1/112.mp4
+113_eps1,Kamu kenapa sayang?,positive,joy,Eps1/113.mp4
+114_eps1,Yay! Yay!,positive,joy,Eps1/114.mp4
+115_eps1,Lukis lagi.,positive,anger,Eps1/115.mp4
+116_eps1,Ini namanya seni,positive,neutral,Eps1/116.mp4
+117_eps1,"Terus, itu namanya seni.",positive,anger,Eps1/117.mp4
+118_eps1,Brisik,negative,anger,Eps1/118.mp4
+119_eps1,Ah males banget deh,negative,anger,Eps1/119.mp4
+120_eps1,Lukis garis butuh konsentrasi.,negative,neutral,Eps1/120.mp4
+121_eps1,Emang susah ngomong sama orang yang ngerti seni,negative,anger,Eps1/121.mp4
+122_eps1,"Mbak Angel Mas Adi, makasih banyak yang makan malamnya, enak banget loh",positive,neutral,Eps1/122.mp4
+123_eps1,Gimana? Bisa kerasain gak getarannya?,positive,neutral,Eps1/123.mp4
+124_eps1,"Cuih, enak ya?",positive,joy,Eps1/124.mp4
+125_eps1,enak sekali.,positive,joy,Eps1/125.mp4
+126_eps1,"Makanan sisa sama klien tadi. Kebanyakan, gak habis. Yaudah, saya bawa pulang.",positive,neutral,Eps1/126.mp4
+127_eps1,Selamat datang di rumah kami.,positive,neutral,Eps1/127.mp4
+128_eps1,"Oh iya, Mas Adi katanya lagi finishing lukisan ya? Lihat dong.",positive,joy,Eps1/128.mp4
+129_eps1,Mau liat serius?,positive,neutral,Eps1/129.mp4
+130_eps1,Gila komposisinya! Ini sih gak kalah jauh sama Salvador Dali! Jago banget!,positive,joy,Eps1/130.mp4
+131_eps1,Bisa lihat kan komposisi warnanya.,positive,joy,Eps1/131.mp4
+132_eps1,Ini cat tumpah ya mas?,positive,anger,Eps1/132.mp4
+133_eps1,Keknya ada yang waras disini.,positive,anger,Eps1/133.mp4
+134_eps1,Ini lukisannya Mas Adi.,positive,neutral,Eps1/134.mp4
+135_eps1,Kamu tau Salvador Dali?,positive,joy,Eps1/135.mp4
+136_eps1,Iya.,positive,joy,Eps1/136.mp4
+137_eps1,"Bravo, bravo.",positive,joy,Eps1/137.mp4
+138_eps1,"Oh iya, sayang. Aku lupa bilang. Aku tuh sebenarnya butuh lampu kayak gitu loh buat di ruang kerja aku.",positive,joy,Eps1/138.mp4
+139_eps1,Yaudah nanti kita cari weekend ini ya,positive,neutral,Eps1/139.mp4
+140_eps1,Beneran sayang?,positive,joy,Eps1/140.mp4
+141_eps1,Kita kan nyari lampu bukan meja ping-pong.,positive,neutral,Eps1/141.mp4
+142_eps1,Tapi kan waktu itu kamu setuju beli meja pingpong,positive,anger,Eps1/142.mp4
+143_eps1,Hah? Siapa yang bilang?,positive,anger,Eps1/143.mp4
+144_eps1,Itu ide brilian bahas gitu.,positive,neutral,Eps1/144.mp4
+145_eps1,"Nanti kita bahas di rumah aja deh, Bas, ya.",positive,neutral,Eps1/145.mp4
+146_eps1,"Udah, nggak apa-apa. Bahas di sini aja biar clear, sayang.",negative,anger,Eps1/146.mp4
+147_eps1,Emangnya kamu yakin mau beli meja pingpong semahal itu?,positive,neutral,Eps1/147.mp4
+148_eps1,Njoko Bodo,positive,anger,Eps1/148.mp4
+149_eps1,"Sayang, aku yakin banget sayang. Meja pingpong itu kan bagus buat olahraga. Kalau aku olahraga, aku sehat.",negative,anger,Eps1/149.mp4
+150_eps1,Kamu gak bakal nyesel nantinya.,positive,neutral,Eps1/150.mp4
+151_eps1,"Enggak, sayang. Enggak. Aku gak bakalan nyesel sedikitpun. Enggak.",negative,anger,Eps1/151.mp4
+152_eps1,"Kayaknya gak usah dulu lah, Bas. Kebutuhan kita kan masih banyak.",positive,sadness,Eps1/152.mp4
+153_eps1,Pernikahan itu gak asik Pernikahan itu kerja keras Seperti kerja di kantor Ada yang jadi bos dan harus ada yang jadi pesuru,positive,neutral,Eps1/153.mp4
+154_eps1,Mari.,positive,joy,Eps1/154.mp4
+155_eps1,Terima kasih banyak.,positive,joy,Eps1/155.mp4
+156_eps1,"Aku masak, aku nyuci piring, aku bersih-bersih.",negative,anger,Eps1/156.mp4
+157_eps1,Ternyata asik juga ya ngundang mereka kesini. Kayaknya harus sering-sering deh.,positive,neutral,Eps1/157.mp4
+158_eps1,"Pengantin baru awal-awalnya mesra, sekarang kayak gitu.",positive,neutral,Eps1/158.mp4
+159_eps1,Aku sih dari awal udah nebak.,positive,neutral,Eps1/159.mp4
+160_eps1,Nebak gimana?,positive,neutral,Eps1/160.mp4
+161_eps1,Ya kan kita waktu itu ngobrol-ngobrol.,positive,neutral,Eps1/161.mp4
+162_eps1,Terus.,positive,neutral,Eps1/162.mp4
+163_eps1,Ya terus aku bilang aja.,positive,neutral,Eps1/163.mp4
+164_eps1,"Terus, antara kita, kamu pikir yang jadi atasan sama bawahan, ceba?",positive,neutral,Eps1/164.mp4
+165_eps1,Bos sama pesuruh siapa?,positive,neutral,Eps1/165.mp4
+166_eps1,"Ya kamu lah bosnya, aku pesuruh. Kan kamu sering nyuruh-nyuruh aku.",positive,joy,Eps1/166.mp4
+167_eps1,Oh gitu?,positive,neutral,Eps1/167.mp4
+168_eps1,90% dari penghasilan keluarga kita itu dari aku.,negative,anger,Eps1/168.mp4
+169_eps1,Hm.,negative,anger,Eps1/169.mp4
+170_eps1,"Gara-gara kamu sejadi berantem sama istri saya, tau gak?",negative,anger,Eps1/170.mp4
+171_eps1,Oh yeah?,positive,neutral,Eps1/171.mp4
+172_eps1,Nasib saya jadi persis seperti kamu.,positive,anger,Eps1/172.mp4
+173_eps1,Ih suka sembarangan deh nyawa-nyawain.,positive,neutral,Eps1/173.mp4
+174_eps1,Ah boong kamu.,positive,neutral,Eps1/174.mp4
+175_eps1,"Beneran, malahan si Bintang itu udah setuju buat beli meja pimpong.",positive,joy,Eps1/175.mp4
+176_eps1,"Jadi gini, saya bawain dia bunga, terus saya berlutut depan dia, saya bilang deh, I love you.",positive,joy,Eps1/176.mp4
+177_eps1,Kok bisa?,positive,joy,Eps1/177.mp4
+178_eps1,Bisa lah,positive,joy,Eps1/178.mp4
+179_eps1,"I love you, terus meja ping-pong.",positive,joy,Eps1/179.mp4
+180_eps1,Iya tapi itu kan cara baikannya orang yang baru menikah mas,positive,neutral,Eps1/180.mp4
+181_eps1,Angel sayang,positive,joy,Eps1/181.mp4
+182_eps1,"Angel, nengok sebentar dong.",positive,joy,Eps1/182.mp4
+183_eps1,Kenapa harus nengok?,positive,neutral,Eps1/183.mp4
+184_eps1,Semenit aja.,positive,joy,Eps1/184.mp4
+185_eps1,I love you,positive,joy,Eps1/185.mp4
+186_eps1,Itu diajarin Bastian,positive,neutral,Eps1/186.mp4
+187_eps1,Ih enggak kata siapa?,negative,anger,Eps1/187.mp4
+188_eps1,Tadi aku telfon-telfonin sama Bintang. Tau gak dia bilang apa?,positive,neutral,Eps1/188.mp4
+189_eps1,"Tapi saya nggak bisa main timpong, Mas.",positive,sadness,Eps1/189.mp4
+190_eps1,"Saya beli ini cuma buat hiasan doang, Mas. Suka sama bentuknya.",positive,sadness,Eps1/190.mp4
+191_eps1,Mau ngapain mas?,positive,neutral,Eps1/191.mp4
+192_eps1,Yuk kita main,positive,neutral,Eps1/192.mp4
+193_eps1,Ayok.,positive,neutral,Eps1/193.mp4
+194_eps1,Kamu beli meja pingpong tapi gak bisa main pingpong.,positive,neutral,Eps1/194.mp4
+195_eps1,"Iya,",positive,sadness,Eps1/195.mp4
+196_eps1,"Yuk, servis.",positive,neutral,Eps1/196.mp4
+197_eps1,Saya kan gak bisa main,positive,sadness,Eps1/197.mp4
+198_eps1,Tinggal pukul aja. Yuk main.,positive,neutral,Eps1/198.mp4
+199_eps1,"Tapi beneran loh, Mas Adi saya gak bisa main.",positive,sadness,Eps1/199.mp4
+200_eps1,Udah ntar bisa.,positive,neutral,Eps1/200.mp4
+201_eps1,"Ahh, ahh mataku.",negative,anger,Eps1/201.mp4
+202_eps1,Mata aku sakit.,positive,sadness,Eps1/202.mp4
+203_eps1,Sakit.,positive,sadness,Eps1/203.mp4
+204_eps1,Maafin aku yah,positive,sadness,Eps1/204.mp4
+205_eps1,Udah dimaafin kok,positive,neutral,Eps1/205.mp4
+206_eps1,Aku kapok urusan sama tetangga.,positive,sadness,Eps1/206.mp4
+207_eps1,Gak usah urusan sama Bastian lagi ya,positive,sadness,Eps1/207.mp4
+208_eps1,Halo siapa nih?,positive,neutral,Eps1/208.mp4
+209_eps1,Bastian. Kamu tau nomer saya dari siapa?,positive,neutral,Eps1/209.mp4
+210_eps1,"Iya mas, kemarin saya minta nomor mas Adi sama Mbak Angel.",positive,neutral,Eps1/210.mp4
+211_eps1,"Ayo, Bas. Kita jadi tanding, kan?",positive,joy,Eps1/211.mp4
+212_eps1,"Iya sayang, jadi kok. Bentar ya, ini lagi ada telepon dari kantor ya.",positive,joy,Eps1/212.mp4
+213_eps1,"Yaudah kalau udah, panggil aku ya. Hmm.",positive,neutral,Eps1/213.mp4
+214_eps1,"Oh tunggu, tunggu, tunggu. Jujur itu tidak selalu baik anak muda.",positive,joy,Eps1/214.mp4
+215_eps1,"Bila seberat tangan kamu sakit, kalau nggak gini, kamu pura-pura kejang-kejang depan dia. Start. Iya. Sikat gigi dulu, terbusanya banyak.",positive,joy,Eps1/215.mp4
+216_eps1,Mm-mm.,positive,neutral,Eps1/216.mp4
+217_eps1,"Karena sebelumnya kamu nanya ke dia, ide brilian gak tu bi?",positive,joy,Eps1/217.mp4
+218_eps1,Nah itu berarti kalau sampai istri ngulang kalimat suami itu artinya,positive,neutral,Eps1/218.mp4
+219_eps1,Pala lo peyang? Enak aja lo naruh meja pingpong di ruang keluarga gue.,negative,anger,Eps1/219.mp4
+220_eps1,Itu.,positive,neutral,Eps1/220.mp4
+221_eps1,"Mas Adi kan baru kenal bintang sehari. Lagian kalau istri saya tuh udah bilang ide brilian, dia pasti setuju kok soal meja pingpong.",positive,neutral,Eps1/221.mp4
+222_eps1,Tapi saya sudah menikah sama istri saya sejak kalian masih SD.,positive,anger,Eps1/222.mp4
+223_eps1,Dan pernikahan itu tidak semudah yang ada di kepala kamu anak muda.,positive,anger,Eps1/223.mp4
+224_eps1,Kamu masih harus banyak belajar anak muda.,positive,neutral,Eps1/224.mp4
+225_eps1,Saya kok yakin Mas Adi salah ya,positive,anger,Eps1/225.mp4
+226_eps1,"Mas Adi itu kan guru gambar, bukan kijoko bodo",positive,neutral,Eps1/226.mp4
+227_eps1,Kamu yakin akan membeli meja pingpong semahal itu?,positive,neutral,Eps1/227.mp4
+228_eps1,Kamu gak akan nyesel nantinya Kayak akan kepake aja,positive,neutral,Eps1/228.mp4
+229_eps1,Yang ketiga.,positive,neutral,Eps1/229.mp4
+230_eps1,Kayaknya gak usah dulu deh. Keperluan kita kan yang lain masih banyak. Kita kan baru beli rumah baru.,positive,neutral,Eps1/230.mp4
+231_eps1,Lagian saya tuh gak percaya sedikit pun ramalan dari Mas Adi,positive,anger,Eps1/231.mp4
+232_eps1,Ha ha ha ha!,positive,anger,Eps1/232.mp4
+233_eps1,Emang beneran bakal begitu ya?,positive,sadness,Eps1/233.mp4
+234_eps1,"Kalo gak ngerti, diem aja deh",positive,anger,Eps1/234.mp4
+235_eps1,Anak sd juga bisa kali.,positive,anger,Eps1/235.mp4
+236_eps1,"Kamu tahu, aku malam ini rencananya mau finishing lukisan. Dan kalau aku lagi finishing lukisan, aku butuh konsentrasi yang sangat besar.",positive,anger,Eps1/236.mp4
+237_eps1,Aku gabisa konsen dong,positive,neutral,Eps1/237.mp4
+238_eps1,"Enggak ya, pokoknya enggak ada deh ngundang ngundang kesini.",negative,anger,Eps1/238.mp4
+239_eps1,"Salvador Dali lahir di Spanyol pada tanggal 11 Mei tahun 1904. Dia adalah pelukis yang sangat terkenal dengan gaya surrealisnya dan juga menghasilkan gambar-gambar yang aneh. Karya-karyanya di antara lain adalah The Persistence of Memory pada tahun 1931, Swans Reflecting Elephants pada tahun 1937, dan The Temptations of Saint Anthony pada tahun 1946.",positive,neutral,Eps1/239.mp4
+240_eps1,Akhirnya ada orang yang ngeri sini juga disini.,positive,joy,Eps1/240.mp4
+241_eps1,Yes!,positive,joy,Eps1/241.mp4
+242_eps1,Okay.,positive,joy,Eps1/242.mp4
+243_eps1,Sekalian beli meja ping-pong kan?,positive,joy,Eps1/243.mp4
+244_eps1,Kayak bakal sering dipake aja sih.,positive,neutral,Eps1/244.mp4
+245_eps1,Kita kan baru pindah rumah,positive,neutral,Eps1/245.mp4
+246_eps1,Tarik tuh omongan kamu.,negative,anger,Eps1/246.mp4
+247_eps1,random kenapa mas?,positive,neutral,Eps1/247.mp4
+248_eps1,Kamu inget gak kemarin waktu kamu berantem sama istri kamu di rumah saya?,positive,neutral,Eps1/248.mp4
+249_eps1,Ternyata itu menular.,positive,anger,Eps1/249.mp4
+250_eps1,"Mas Adi, asal Mas Adi tau ya, saya sama Bintang itu udah baikan. Udah gak berantem lagi.",positive,neutral,Eps1/250.mp4
+251_eps1,"Kalau nggak percaya, tuh.",positive,neutral,Eps1/251.mp4
+252_eps1,Beres.,positive,neutral,Eps1/252.mp4
+253_eps1,Kalau orang yang udah puluhan tahun menikah Dan sudah punya banyak sekali pengalaman Seperti Mas Adi Kayaknya gak mungkin bakal niru cara saya baikkan,positive,neutral,Eps1/253.mp4
+254_eps1,"Bastian juga minta maaf caranya. Dia bawa bunga, berlutut, bilang I love you.",positive,neutral,Eps1/254.mp4
+255_eps1,Basi.,negative,anger,Eps1/255.mp4
+256_eps1,Tapi jangan bilang-bilang soal bintang ya,positive,neutral,Eps1/256.mp4
+257_eps1,Pukul.,positive,neutral,Eps1/257.mp4
+258_eps1,"Pokoknya mulai sekarang Bastian sama gue, end.",positive,anger,Eps1/258.mp4
+259_eps1,"Ternyata si Bintang itu jago banget main pingpong, Mas. Gimana dong? Ntar saya bakal ketahuan nggak bisa main. Hah?",positive,sadness,Eps1/259.mp4

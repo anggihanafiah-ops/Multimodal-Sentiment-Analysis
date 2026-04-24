@@ -1,0 +1,302 @@
+video_id,transcript,label,emotion,path
+1_eps4,Bee.,positive,sadness,Eps4/1.mp4
+2_eps4,Kamu kok makan es krim di tempat tidur sih?,positive,neutral,Eps4/2.mp4
+3_eps4,Ya enggak lah,positive,anger,Eps4/3.mp4
+4_eps4,Es krim itu kan banyak gulanya.,positive,anger,Eps4/4.mp4
+5_eps4,Kalau tumpah.,positive,anger,Eps4/5.mp4
+6_eps4,Kan tempat tidur kita banyak semutnya.,positive,anger,Eps4/6.mp4
+7_eps4,Dikasih whipcream enak nih.,positive,joy,Eps4/7.mp4
+8_eps4,"Uh, no, thank you. Udah kenyang.",positive,joy,Eps4/8.mp4
+9_eps4,Rasanya tadi ada yang bilang deh.,positive,joy,Eps4/9.mp4
+10_eps4,"No thank you, udah kenyang",positive,joy,Eps4/10.mp4
+11_eps4,Ini kayaknya cocok sama bawang goreng deh.,positive,joy,Eps4/11.mp4
+12_eps4,Ada di lemari. Di yang kedua situ.,positive,joy,Eps4/12.mp4
+13_eps4,"Hi, B.",positive,joy,Eps4/13.mp4
+14_eps4,Hi.,positive,joy,Eps4/14.mp4
+15_eps4,Tumben pulang diem-diem aja. Biasanya udah teriak-teriak manggilin aku.,positive,joy,Eps4/15.mp4
+16_eps4,Oh.,positive,neutral,Eps4/16.mp4
+17_eps4,Tenggorokan aku lagi sakit.,positive,sadness,Eps4/17.mp4
+18_eps4,Aku males teriak-teriak. Lagian kalau aku teriak sorenya begini kamu gak ngenalin.,positive,sadness,Eps4/18.mp4
+19_eps4,"Itu apaan, Bas?",positive,neutral,Eps4/19.mp4
+20_eps4,Gada apa-apa.,positive,joy,Eps4/20.mp4
+21_eps4,"Jangan, aku habis bunuh tikus. Ih, serem.",positive,sadness,Eps4/21.mp4
+22_eps4,Bukannya kamu paling takut sama tikus ya?,positive,anger,Eps4/22.mp4
+23_eps4,Mana mungkin kamu bunuh tikus?,positive,anger,Eps4/23.mp4
+24_eps4,Iya iya.,positive,neutral,Eps4/24.mp4
+25_eps4,Biasanya aku emang takut sama tikus.,positive,joy,Eps4/25.mp4
+26_eps4,Tapi tikus yang ini udah keterlaluan.,positive,joy,Eps4/26.mp4
+27_eps4,masa tadi aku baru pulang dia tidur-tiduran di atas sofa.,positive,anger,Eps4/27.mp4
+28_eps4,Aku bunuh aja.,positive,anger,Eps4/28.mp4
+29_eps4,Sayang kamu ke atas duluan ya nanti aku nyusul ya Aku mau buang dulu tikusnya ya,positive,joy,Eps4/29.mp4
+30_eps4,Atau kamu yang mau buangin?,positive,joy,Eps4/30.mp4
+31_eps4,Enggak kan?,positive,joy,Eps4/31.mp4
+32_eps4,"Okay, boss.",positive,neutral,Eps4/32.mp4
+33_eps4,"Aduh Bastian, selama ini kamu pikir aku selugu apa sih?",positive,joy,Eps4/33.mp4
+34_eps4,Aku tau kok kalau kamu mau bikinin aku surprise party buat ulang tahunku besok.,positive,joy,Eps4/34.mp4
+35_eps4,"Muncul sama tamu-tamu, abis itu teriak.",positive,joy,Eps4/35.mp4
+36_eps4,Surprise!,positive,joy,Eps4/36.mp4
+37_eps4,ketebak banget sih,positive,anger,Eps4/37.mp4
+38_eps4,Kamu gak bakal bisa nebak kalau aku bikinin surprise party buat kamu.,positive,joy,Eps4/38.mp4
+39_eps4,Kamu pasti senang deh,positive,joy,Eps4/39.mp4
+40_eps4,"Aduh, Bas. Sebenarnya aku paling gak suka deh sama surprise party.",positive,anger,Eps4/40.mp4
+41_eps4,Kayak anak kecil tau gak sih?,positive,anger,Eps4/41.mp4
+42_eps4,Dan aku berasa bodoh aja.,positive,anger,Eps4/42.mp4
+43_eps4,Kok dicabut listriknya?,positive,neutral,Eps4/43.mp4
+44_eps4,Biar hemat listrik,positive,neutral,Eps4/44.mp4
+45_eps4,Ini kenapa?,positive,neutral,Eps4/45.mp4
+46_eps4,Angel dengerin aku ya.,positive,neutral,Eps4/46.mp4
+47_eps4,"Dari pertama kali aku ketemu sama kamu, aku tahu kamu orangnya hemat.",positive,neutral,Eps4/47.mp4
+48_eps4,Menuju pelit,positive,anger,Eps4/48.mp4
+49_eps4,"Tapi dengan kamu nyambut colokan ini, itu gak ngaruh kali.",positive,anger,Eps4/49.mp4
+50_eps4,Ga ngaruh gimana?,positive,neutral,Eps4/50.mp4
+51_eps4,Emang kamu pikir dengan kamu cabut akan hemat?,negative,anger,Eps4/51.mp4
+52_eps4,Enggak.,positive,anger,Eps4/52.mp4
+53_eps4,Kamu tuh so tau ya.,negative,anger,Eps4/53.mp4
+54_eps4,Aku tadi baru baca di internet.,positive,anger,Eps4/54.mp4
+55_eps4,"Untuk menghemat listrik, Anda harus mencabut kabel listrik dari peralatan Anda.",positive,neutral,Eps4/55.mp4
+56_eps4,Oh yeah?,positive,anger,Eps4/56.mp4
+57_eps4,Internet,positive,neutral,Eps4/57.mp4
+58_eps4,Internet,positive,anger,Eps4/58.mp4
+59_eps4,Emang internet selalu bener ya?,negative,anger,Eps4/59.mp4
+60_eps4,Aku sih lebih percaya sama internet daripada sama seniman yang sok ngerti elektronik.,negative,anger,Eps4/60.mp4
+61_eps4,"Oh, kamu bilang aku sok ngerti.",negative,anger,Eps4/61.mp4
+62_eps4,Semua orang juga tahu,negative,anger,Eps4/62.mp4
+63_eps4,Karena apa? Di microwave itu ada tombol on dan off-nya.,negative,anger,Eps4/63.mp4
+64_eps4,"Kalau tombolnya off, berarti nggak makan listrik. Maka nggak bayar listrik.",negative,anger,Eps4/64.mp4
+65_eps4,Jadi hemat.,negative,anger,Eps4/65.mp4
+66_eps4,Paham?,negative,anger,Eps4/66.mp4
+67_eps4,"Tombol off, menurut internet, kalau kabelnya masih dicolok, itu listrik terus jalan.",negative,anger,Eps4/67.mp4
+68_eps4,"Listrik terus jalan, tagihan terus jalan.",negative,anger,Eps4/68.mp4
+69_eps4,"Tagian terus jalan, siapa yang bayar?",negative,anger,Eps4/69.mp4
+70_eps4,Aku tau kamu pasti ngungkit-ngungkit ke situ lagi,negative,anger,Eps4/70.mp4
+71_eps4,"Ini bukan soal masalah siapa yang penghasilannya paling besar, Angel.",negative,anger,Eps4/71.mp4
+72_eps4,Tapi ini masalah logika,negative,anger,Eps4/72.mp4
+73_eps4,Dan aku tahu kamu salah dan kamu memang salah.,negative,anger,Eps4/73.mp4
+74_eps4,dan aku yakin kamu yang salah.,negative,anger,Eps4/74.mp4
+75_eps4,atas nama penghematan,negative,anger,Eps4/75.mp4
+76_eps4,Aku akan cabut.,negative,anger,Eps4/76.mp4
+77_eps4,Aku pasang lagi.,negative,anger,Eps4/77.mp4
+78_eps4,Susah amat.,negative,anger,Eps4/78.mp4
+79_eps4,Stop! Stop!,negative,anger,Eps4/79.mp4
+80_eps4,Mau bunuh aku?,negative,anger,Eps4/80.mp4
+81_eps4,Ini aku pegang kabelnya nih Nih Ini aku pegang,negative,anger,Eps4/81.mp4
+82_eps4,Ayo bunuh.,negative,anger,Eps4/82.mp4
+83_eps4,Sorry ya bas ya,positive,neutral,Eps4/83.mp4
+84_eps4,Saya bener-bener lagi gak mood nih mau ngobrol sama kamu.,positive,anger,Eps4/84.mp4
+85_eps4,Silahkan keluar,positive,anger,Eps4/85.mp4
+86_eps4,Ga mood kenapa lagi sih mas?,positive,neutral,Eps4/86.mp4
+87_eps4,Cerita dong sama tetangga tersayang.,positive,neutral,Eps4/87.mp4
+88_eps4,Siapa tau saya bisa bantu.,positive,neutral,Eps4/88.mp4
+89_eps4,"Iya, apalagi kalau bukan karena si Angel cari masalah.",positive,anger,Eps4/89.mp4
+90_eps4,Jadi saya lagi berdebat sama dia ya tentang sesuatu hal lah Saya nggak perlu bilang sama kamu ya,positive,anger,Eps4/90.mp4
+91_eps4,"Dan saya ini lagi berpikir, gimana caranya saya membuktikan kalau Angel itu salah.",positive,anger,Eps4/91.mp4
+92_eps4,"Dan saya ini lagi berpikir, gimana caranya saya membuktikan kalau Angel itu salah.",positive,anger,Eps4/92.mp4
+93_eps4,"Mas Adi, Mas Adi.",positive,neutral,Eps4/93.mp4
+94_eps4,Emang penting ya?,positive,neutral,Eps4/94.mp4
+95_eps4,Siapa yang salah atau benar?,positive,neutral,Eps4/95.mp4
+96_eps4,Mbak Angel itu kan istri Mas Adi.,positive,neutral,Eps4/96.mp4
+97_eps4,"Lagian rumah tangga itu ya, bukan pertandingan, Mas.",positive,neutral,Eps4/97.mp4
+98_eps4,"Nggak ada yang kalah, nggak ada yang menang.",positive,neutral,Eps4/98.mp4
+99_eps4,Ohohohoho,positive,neutral,Eps4/99.mp4
+100_eps4,Jangan sok tawa anak muda.,positive,neutral,Eps4/100.mp4
+101_eps4,Rumah tangga itu ibarat main game di rental PS.,positive,neutral,Eps4/101.mp4
+102_eps4,"Kalau kita udah bayar main game di rental PS, terus kita kalah berarti kita rugi.",positive,anger,Eps4/102.mp4
+103_eps4,Jadi saya gak mau kalah sama Angel.,positive,anger,Eps4/103.mp4
+104_eps4,Paham?,positive,anger,Eps4/104.mp4
+105_eps4,Oiyah.,positive,neutral,Eps4/105.mp4
+106_eps4,Kamu ngerti elektronik nggak?,positive,neutral,Eps4/106.mp4
+107_eps4,Iya sebagai cowok jelas lah.,positive,neutral,Eps4/107.mp4
+108_eps4,hahaha.,positive,joy,Eps4/108.mp4
+109_eps4,Jelas gak ngerti mas?,positive,neutral,Eps4/109.mp4
+110_eps4,Saya nggak ngerti apa-apa soal elektronik.,positive,neutral,Eps4/110.mp4
+111_eps4,Salah nanya saya itu.,positive,anger,Eps4/111.mp4
+112_eps4,"Oke, kalau gitu kamu gak bisa bantu saya kan?",positive,neutral,Eps4/112.mp4
+113_eps4,eh bentar bentar.,positive,neutral,Eps4/113.mp4
+114_eps4,Undangan.,positive,joy,Eps4/114.mp4
+115_eps4,Anak siapa yang ulang tahun?,positive,neutral,Eps4/115.mp4
+116_eps4,"Bintang, Mas.",positive,joy,Eps4/116.mp4
+117_eps4,Jadi besok malam itu saya mau bikin surprise party di rumah.,positive,joy,Eps4/117.mp4
+118_eps4,Mas Adi sama Mbak Angel harus datang.,positive,joy,Eps4/118.mp4
+119_eps4,Okey?,positive,joy,Eps4/119.mp4
+120_eps4,Hehehehe.,positive,joy,Eps4/120.mp4
+121_eps4,Kamu ini umur berapa sih mas?,positive,joy,Eps4/121.mp4
+122_eps4,5 tahun.,positive,joy,Eps4/122.mp4
+123_eps4,Begini undangannya.,positive,joy,Eps4/123.mp4
+124_eps4,Pokoknya Mas Adi harus datang.,positive,neutral,Eps4/124.mp4
+125_eps4,"Tapi ingat, jangan bilang siapa-siapa.",positive,neutral,Eps4/125.mp4
+126_eps4,Soalnya saya bikin surprise buat bintang.,positive,joy,Eps4/126.mp4
+127_eps4,Surprise!,positive,joy,Eps4/127.mp4
+128_eps4,Bintang gak boleh tahu.,positive,neutral,Eps4/128.mp4
+129_eps4,Asal kamu keluar dari rumah saya sekarang juga.,negative,anger,Eps4/129.mp4
+130_eps4,Tolong buka ini,negative,neutral,Eps4/130.mp4
+131_eps4,Kan rumah Mas Adi.,positive,neutral,Eps4/131.mp4
+132_eps4,Kan kamu yang paling deket,positive,neutral,Eps4/132.mp4
+133_eps4,"Kepikiran juga, saya gak kepikiran loh.",positive,neutral,Eps4/133.mp4
+134_eps4,Hai Mas Adi!,positive,joy,Eps4/134.mp4
+135_eps4,hai Bintang.,positive,joy,Eps4/135.mp4
+136_eps4,Ini piagam aku katanya kamu mau kasih frame.,positive,neutral,Eps4/136.mp4
+137_eps4,Maaf ya,positive,joy,Eps4/137.mp4
+138_eps4,"Yaudah, abis ini aku langsung ke tukang frame ya",positive,joy,Eps4/138.mp4
+139_eps4,Coba liat.,positive,neutral,Eps4/139.mp4
+140_eps4,Piagam penghargaan juara satu merakit robot tingkat nasional.,positive,neutral,Eps4/140.mp4
+141_eps4,Wow.,positive,joy,Eps4/141.mp4
+142_eps4,Bintang? Kau bisa ngerakit robot?,positive,joy,Eps4/142.mp4
+143_eps4,Ah enggak kok mas.,positive,neutral,Eps4/143.mp4
+144_eps4,Tapi emang kebetulan aku suka electronic engineering.,positive,neutral,Eps4/144.mp4
+145_eps4,Jadi pas SMA aku iseng-iseng ikut kejuaraan robot,positive,neutral,Eps4/145.mp4
+146_eps4,"Eh, menang deh.",positive,joy,Eps4/146.mp4
+147_eps4,Luar biasa.,positive,joy,Eps4/147.mp4
+148_eps4,Berarti kamu ngerti elektronik dong?,positive,neutral,Eps4/148.mp4
+149_eps4,"Ya, lumayan lah, Mas.",positive,neutral,Eps4/149.mp4
+150_eps4,So-so.,positive,joy,Eps4/150.mp4
+151_eps4,Hehehe.,positive,joy,Eps4/151.mp4
+152_eps4,Okay.,positive,joy,Eps4/152.mp4
+153_eps4,Bagaimana kalau malam ini kamu saya undang... ...makan malam di sini sama saya dan Angel?,positive,neutral,Eps4/153.mp4
+154_eps4,makan malam,positive,neutral,Eps4/154.mp4
+155_eps4,Di sini.,positive,neutral,Eps4/155.mp4
+156_eps4,"Iya, kamu sendirian aja.",positive,joy,Eps4/156.mp4
+157_eps4,Bastian gausah ikut kan dia mau meeting nanti malem,positive,neutral,Eps4/157.mp4
+158_eps4,"Oh kata siapa mas? Saya nggak ada meeting, kok free!",positive,joy,Eps4/158.mp4
+159_eps4,Hihi.,positive,joy,Eps4/159.mp4
+160_eps4,Oiyah.,positive,joy,Eps4/160.mp4
+161_eps4,Kok udah meeting sama klien aku bentar sayang.,positive,joy,Eps4/161.mp4
+162_eps4,Okey.,positive,neutral,Eps4/162.mp4
+163_eps4,Oh.,positive,neutral,Eps4/163.mp4
+164_eps4,Jadi kamu makan malam sama kita disini karena kebetulan Bastian lagi meeting dan kebetulan Adi yang undang kamu kesini?,positive,neutral,Eps4/164.mp4
+165_eps4,Iya mbak,positive,neutral,Eps4/165.mp4
+166_eps4,Saya juga heran,positive,neutral,Eps4/166.mp4
+167_eps4,Biasanya kan Mas Adi gak suka terima tamu ke rumah.,positive,neutral,Eps4/167.mp4
+168_eps4,Biasanya karena Adi ada maunya nih kalau udah gini nih.,positive,neutral,Eps4/168.mp4
+169_eps4,Betul sekali.,positive,joy,Eps4/169.mp4
+170_eps4,Coba kamu kasih liat ke Angel piagam yang tadi tuh loh,positive,joy,Eps4/170.mp4
+171_eps4,emm,positive,neutral,Eps4/171.mp4
+172_eps4,piagam penghargaan,positive,joy,Eps4/172.mp4
+173_eps4,Juara satu lomba merakit robot tingkat nasional.,positive,joy,Eps4/173.mp4
+174_eps4,Kamu gak ngerti?,positive,joy,Eps4/174.mp4
+175_eps4,Itu berarti,positive,joy,Eps4/175.mp4
+176_eps4,Bintang ini adalah ahli elektronik,positive,joy,Eps4/176.mp4
+177_eps4,Oh my god.,positive,joy,Eps4/177.mp4
+178_eps4,Bintang.,positive,joy,Eps4/178.mp4
+179_eps4,yang mungkin pendapatnya akan benar daripada internet.,positive,joy,Eps4/179.mp4
+180_eps4,"Kalau microwave dicabut colokannya, apakah itu akan menghemat listrik?",positive,neutral,Eps4/180.mp4
+181_eps4,"Listrik itu hanya mengalir kalau microwave dinyalain, Mas.",positive,neutral,Eps4/181.mp4
+182_eps4,"Jadi kalau tombol on-nya belum dipencet, ya otomatis listrik nggak akan mengalir.",positive,neutral,Eps4/182.mp4
+183_eps4,Dan jawabannya listrik tidak akan mengalir.,positive,neutral,Eps4/183.mp4
+184_eps4,Ha!,positive,joy,Eps4/184.mp4
+185_eps4,Yes!,positive,joy,Eps4/185.mp4
+186_eps4,"Yes, aku menang. Aku menang. Dan Adi tidak pernah terkalahkan.",positive,joy,Eps4/186.mp4
+187_eps4,Segar sekali.,positive,joy,Eps4/187.mp4
+188_eps4,Jadi kami undang bintang ke sini.,negative,anger,Eps4/188.mp4
+189_eps4,Mau buktiin aku salah?,negative,anger,Eps4/189.mp4
+190_eps4,"Oo ngga, ngga bukan.",positive,joy,Eps4/190.mp4
+191_eps4,Sumpah bukan...,positive,joy,Eps4/191.mp4
+192_eps4,Jadi maksud aku ngundang bintang kesini,positive,joy,Eps4/192.mp4
+193_eps4,untuk buktiin kalau aku bener!,positive,joy,Eps4/193.mp4
+194_eps4,Yes.,positive,joy,Eps4/194.mp4
+195_eps4,nyebelin banget tau gak,negative,anger,Eps4/195.mp4
+196_eps4,Nyebelin tadi bener,positive,joy,Eps4/196.mp4
+197_eps4,Daripada nyebelin tapi salah,positive,joy,Eps4/197.mp4
+198_eps4,Apaansih,negative,anger,Eps4/198.mp4
+199_eps4,nikmatnya bisa nyolokin lagi,positive,joy,Eps4/199.mp4
+200_eps4,Minta nggak usah repot-repot.,positive,joy,Eps4/200.mp4
+201_eps4,"Hari ini khusus spesial, aku yang nyuciin piring kamu.",positive,joy,Eps4/201.mp4
+202_eps4,Sini.,positive,joy,Eps4/202.mp4
+203_eps4,Gak sayang listrik.,positive,neutral,Eps4/203.mp4
+204_eps4,Gak sayang listrik gimana maksudnya,positive,neutral,Eps4/204.mp4
+205_eps4,Kalau colokannya nyolok itu nggak makan listrik ya?,positive,neutral,Eps4/205.mp4
+206_eps4,hehe.,positive,joy,Eps4/206.mp4
+207_eps4,Iyasih.,positive,joy,Eps4/207.mp4
+208_eps4,"Tapi kalau microwavenya model baru,",positive,neutral,Eps4/208.mp4
+209_eps4,"Ini sih microwave model lama, Mas.",positive,neutral,Eps4/209.mp4
+210_eps4,Ini tetap makan listrik walaupun tombolnya nggak di-on.,positive,neutral,Eps4/210.mp4
+211_eps4,Ini mas.,positive,neutral,Eps4/211.mp4
+212_eps4,Tadi katanya mau nyuciin piring saya.,positive,neutral,Eps4/212.mp4
+213_eps4,Saya mau makan lagi ya.,positive,neutral,Eps4/213.mp4
+214_eps4,Yes.,positive,joy,Eps4/214.mp4
+215_eps4,Angel tidak terkalahkan,positive,joy,Eps4/215.mp4
+216_eps4,Sekedar mengingatkan saja Mas Adi.,positive,neutral,Eps4/216.mp4
+217_eps4,Nanti malam itu kan surprise party-nya bintang,positive,neutral,Eps4/217.mp4
+218_eps4,Jadi ntar malem jangan lupa ya,positive,neutral,Eps4/218.mp4
+219_eps4,"Sebenarnya saya lagi malas sama istri kamu, Bas.",positive,anger,Eps4/219.mp4
+220_eps4,"Jok elah, Mas Adi ini bisa aja",positive,neutral,Eps4/220.mp4
+221_eps4,Iya gara-gara istri kamu saya jadi bete tuh sama si Angel.,negative,anger,Eps4/221.mp4
+222_eps4,Ohhhh.,positive,neutral,Eps4/222.mp4
+223_eps4,Pasti Mas Adi kalah berdebat ya sama Mbak Angel ya.,positive,neutral,Eps4/223.mp4
+224_eps4,Pernikahan itu jangan disamain sama main game di rental PS.,positive,neutral,Eps4/224.mp4
+225_eps4,Aduh,negative,anger,Eps4/225.mp4
+226_eps4,"Hidup saya ini hancur berantakan, Bas. Kamu tahu nggak?",negative,anger,Eps4/226.mp4
+227_eps4,"Iya, setiap detik Angel selalu ngingetin saya kalau dia menang dan saya yang kalah.",negative,anger,Eps4/227.mp4
+228_eps4,Aduh beratnya hidup ini.,negative,anger,Eps4/228.mp4
+229_eps4,Apalagi ditambah saya harus datang ke pesta ulang tahun orang yang menyebabkan semua ini.,negative,anger,Eps4/229.mp4
+230_eps4,Mau tarok dimana muka saya?,negative,anger,Eps4/230.mp4
+231_eps4,Ech.,positive,anger,Eps4/231.mp4
+232_eps4,Yaudah sih.,positive,neutral,Eps4/232.mp4
+233_eps4,Lupain aja.,positive,neutral,Eps4/233.mp4
+234_eps4,Emang segitu pentingnya ya?,positive,neutral,Eps4/234.mp4
+235_eps4,"Kamu tahu, satu-satunya hal yang bisa membuat saya semangat hidup adalah kalau saya bisa menemukan sedikit aja kesalahan pada si Angel.",negative,anger,Eps4/235.mp4
+236_eps4,kalau memang dia benar-benar salah.,positive,anger,Eps4/236.mp4
+237_eps4,Karena saya yakin gak mungkin dia selalu benar. Pasti ada salahnya.,negative,anger,Eps4/237.mp4
+238_eps4,Yakin saya.,positive,anger,Eps4/238.mp4
+239_eps4,Ini gak mungkin ada orang bener terus?,positive,anger,Eps4/239.mp4
+240_eps4,"Yaudah, yaudah, jangan ngamuk kayak anak kecil gitu dong.",positive,neutral,Eps4/240.mp4
+241_eps4,"Sialan kamu, emangnya saya anak kecil?",positive,anger,Eps4/241.mp4
+242_eps4,"Ya udah, pokoknya nanti malam itu si Bintang bakal pulang jam 7.",positive,neutral,Eps4/242.mp4
+243_eps4,"Jadi sebelum jam 7 malam, Mas Adi sama Mbak Angel sudah harus di rumah saya.",positive,joy,Eps4/243.mp4
+244_eps4,Permisi.,positive,joy,Eps4/244.mp4
+245_eps4,Standar.,negative,neutral,Eps4/245.mp4
+246_eps4,Paling juga Sebastian pura-pura lupa ulang tahunnya si Bintang.,negative,neutral,Eps4/246.mp4
+247_eps4,"Terus begitu si Bintang pulang, buka pintu.",negative,neutral,Eps4/247.mp4
+248_eps4,Surprise!,negative,joy,Eps4/248.mp4
+249_eps4,Terus dibintang pura-pura kaget,negative,neutral,Eps4/249.mp4
+250_eps4,"Aduh, aku kaget",negative,joy,Eps4/250.mp4
+251_eps4,Aduh aku seneng sekali deh,negative,joy,Eps4/251.mp4
+252_eps4,Terima kasih.,negative,joy,Eps4/252.mp4
+253_eps4,"Hmph, males.",negative,anger,Eps4/253.mp4
+254_eps4,mendingan juga tidur di rumah,negative,anger,Eps4/254.mp4
+255_eps4,Bastian sih bilang ngundang temannya sekitar 10-15 orang.,positive,neutral,Eps4/255.mp4
+256_eps4,Pasti rumahnya penuh tuh,positive,neutral,Eps4/256.mp4
+257_eps4,secara ada meja biliar.,positive,neutral,Eps4/257.mp4
+258_eps4,Meja biliar.,positive,neutral,Eps4/258.mp4
+259_eps4,Yang di sebelah meja makan.,positive,neutral,Eps4/259.mp4
+260_eps4,Kamu gak ngebayangin ya?,positive,neutral,Eps4/260.mp4
+261_eps4,Itu rumah kan kecil banget.,positive,neutral,Eps4/261.mp4
+262_eps4,"ditambah meja itu, kan jadi",positive,neutral,Eps4/262.mp4
+263_eps4,"Angel, itu meja ping pong.",positive,joy,Eps4/263.mp4
+264_eps4,bukan meja biliar,positive,joy,Eps4/264.mp4
+265_eps4,"Ya, apa pun, aku ga buta. Aku bisa bedain kok meja pingpong sama meja bilyar.",positive,anger,Eps4/265.mp4
+266_eps4,Ah!,positive,joy,Eps4/266.mp4
+267_eps4,Akhirnya kamu salah juga,positive,joy,Eps4/267.mp4
+268_eps4,Bye bye sayang,positive,joy,Eps4/268.mp4
+269_eps4,Aku berani taruhan kalau itu meja pingpong bukan meja biliar.,positive,joy,Eps4/269.mp4
+270_eps4,Kok bisa telat sih? Bintang untung belum datang lho.,negative,sadness,Eps4/270.mp4
+271_eps4,"macet, baas?",positive,joy,Eps4/271.mp4
+272_eps4,Kan rumah situ di sebelah mas,positive,sadness,Eps4/272.mp4
+273_eps4,"Bas, kasih tau ke dia, itu meja pingpong apa meja biliar?",positive,joy,Eps4/273.mp4
+274_eps4,"Aduh, Mas Hadi udah deh. Bentar aja kita bahas ya.",positive,sadness,Eps4/274.mp4
+275_eps4,Saya cuma pengen kasih tau aja ke dia kalau dia tuh salah.,negative,joy,Eps4/275.mp4
+276_eps4,"Eh, enak aja salah.",negative,anger,Eps4/276.mp4
+277_eps4,"Iya, saya taruh di luar. Tapi jangan sekarang ya, Mas.",positive,neutral,Eps4/277.mp4
+278_eps4,"Mas Adi, Mbak Angel.",negative,anger,Eps4/278.mp4
+279_eps4,"Mas Adi, Mbak Angel.",positive,anger,Eps4/279.mp4
+280_eps4,"Ala bintang, udah deh",positive,joy,Eps4/280.mp4
+281_eps4,Kamu tau kan disini mau ada surprise party,positive,joy,Eps4/281.mp4
+282_eps4,Come on!,positive,joy,Eps4/282.mp4
+283_eps4,Oh jadi ini surprise party aku.,positive,joy,Eps4/283.mp4
+284_eps4,Surprise!,positive,joy,Eps4/284.mp4
+285_eps4,Walaupun kita udah minta maaf sratus kali.,positive,sadness,Eps4/285.mp4
+286_eps4,Dan si Bastian katanya udah maafin kita juga seratus kali.,positive,sadness,Eps4/286.mp4
+287_eps4,Kayaknya itu anak masih kesel.,positive,sadness,Eps4/287.mp4
+288_eps4,Kenapa ya perkawinan kita jadi kayak gini?,positive,sadness,Eps4/288.mp4
+289_eps4,Heh.. Capek tau gak.,negative,sadness,Eps4/289.mp4
+290_eps4,Iya aku juga capek.,negative,sadness,Eps4/290.mp4
+291_eps4,Pokoknya jangan kayak gini lagi ya.,positive,sadness,Eps4/291.mp4
+292_eps4,Menang kalah benar salah,positive,sadness,Eps4/292.mp4
+293_eps4,"Bastian, kamu kenapa sih?",positive,sadness,Eps4/293.mp4
+294_eps4,Kok kayaknya sedih banget?,positive,sadness,Eps4/294.mp4
+295_eps4,Maaf ya sayang.,positive,sadness,Eps4/295.mp4
+296_eps4,Tadi surprise party-nya gagal gara-gara Mas Adi sama Mba Angel.,negative,sadness,Eps4/296.mp4
+297_eps4,Justru aku malah seneng gak harus pura-pura kaget di surprise party yang bodoh itu. Fyuh!,negative,joy,Eps4/297.mp4
+298_eps4,Untung ada Mas Adi dan Mbak Angel.,positive,joy,Eps4/298.mp4
+299_eps4,Tapi aku masih punya surprise kok buat kamu.,positive,joy,Eps4/299.mp4
+300_eps4,Tada! Surprise!,positive,joy,Eps4/300.mp4
+301_eps4,Bagus banget bunganya.,positive,joy,Eps4/301.mp4
