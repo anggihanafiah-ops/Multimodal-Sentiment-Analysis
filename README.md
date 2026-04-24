@@ -14,6 +14,8 @@ What is inside this repo?
 - GPT-based evaluation results (CSV format) for three open LLM translation systems  
 - Supporting materials to enable reproducibility and further extension of the analysis  
 
+---
+
 ## Dataset
 Dataset is available at:
 [https://zenodo.org/record/XXXXX](https://zenodo.org/records/18286740)
