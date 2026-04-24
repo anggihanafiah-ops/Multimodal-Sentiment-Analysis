@@ -7,12 +7,19 @@ This paper is currently under review.
 
 ---
 
-# What is inside this repo?
+## What is inside this repo?
 
 - Jupyter notebooks for machine translation (MT) evaluation and BLEU baseline analysis  
 - Human evaluation results (CSV format)  
 - GPT-based evaluation results (CSV format) for three open LLM translation systems  
 - Supporting materials to enable reproducibility and further extension of the analysis  
+
+---
+
+## What is inside this repo?
+
+- LLaVA-One-Vision-7B 
+- Qwen2.5-VL-7B
 
 ---
 
