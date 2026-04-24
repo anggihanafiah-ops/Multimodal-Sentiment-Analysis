@@ -9,14 +9,12 @@ This paper is currently under review.
 
 ## What is inside this repo?
 
-- Jupyter notebooks for machine translation (MT) evaluation and BLEU baseline analysis  
-- Human evaluation results (CSV format)  
-- GPT-based evaluation results (CSV format) for three open LLM translation systems  
+- Jupyter notebooks for Multimodal Sentiment Analysis baseline analysis  
 - Supporting materials to enable reproducibility and further extension of the analysis  
 
 ---
 
-## What is inside this repo?
+## Models Evaluated
 
 - LLaVA-One-Vision-7B 
 - Qwen2.5-VL-7B
